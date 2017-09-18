@@ -42,4 +42,3 @@ module.exports = function(app){
     friendList.push(req.body);
   });
 };
-© 2017 GitHub, Inc.
